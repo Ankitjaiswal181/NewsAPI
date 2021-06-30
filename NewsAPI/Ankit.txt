@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "China martial arts school fire kills 18, mostly children",
+"description": "Most of the victims were reportedly pupils aged between seven and 16 who lived at the school.",
+"url": "http://www.bbc.co.uk/news/world-asia-china-57607869",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/117EA/production/_119085617_gettyimages-52644502.jpg",
+"publishedAt": "2021-06-25T11:22:22.7520786Z",
+"content": "image copyrightGetty Images\r\nimage captionThousands of students attend kung fu training centres in Henan province, the birthplace of Chinese martial arts\r\nAt least 18 were killed and 16 injured after… [+1584 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "US to evacuate thousands of Afghans before troop withdrawal",
+"description": "Thousands at risk of Taliban reprisals will be relocated before US troops withdraw, officials say.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57608571",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C4C0/production/_119086305_gettyimages-92201413.jpg",
+"publishedAt": "2021-06-25T10:37:22.2462223Z",
+"content": "image copyrightGetty Images\r\nimage captionUS troops have been in Afghanistan for two decades\r\nThe US plans to evacuate thousands of Afghans who worked for the American military ahead of September's t… [+2466 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Roman Protasevich: Belarus jet drama dissident moved to house arrest",
+"description": "Opposition journalist Roman Protasevich was seized from a Ryanair plane along with his girlfriend.",
+"url": "http://www.bbc.co.uk/news/world-europe-57607580",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129D7/production/_118674267_mediaitem118674266.jpg",
+"publishedAt": "2021-06-25T07:07:20.4197627Z",
+"content": "image captionBelarusian authorities released videos of Roman Protasevich and Sofia Sapega confessing to criminal charges\r\nA Belarusian dissident who was taken off a Ryanair jet forced to land in Mins… [+1769 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Miami building collapse: Rescuers listen for signs of life in rubble",
+"description": "Rescuers search for survivors with 99 unaccounted for after the collapse of the 12-storey complex.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57606232",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/87BC/production/_119084743_068212778-1.jpg",
+"publishedAt": "2021-06-25T04:52:22.546247Z",
+"content": "media captionWatch: Helicopter and eyewitness footage show the scene after the collapse\r\nRescuers are desperately searching for survivors trapped among the rubble of a collapsed 12-storey residential… [+4597 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Czech Republic: Powerful tornado sweeps through villages",
+"description": "As many as 150 people are reportedly injured, with the worst-hit areas looking like a war zone.",
+"url": "http://www.bbc.co.uk/news/world-europe-57605651",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C98/production/_119084018_czech1_tornado.png",
+"publishedAt": "2021-06-25T00:22:23.6992092Z",
+"content": "media captionThe rare sight of a tornado in the Czech Republic was caught on film\r\nA powerful tornado has swept through several villages in the south-eastern Czech Republic, injuring 150 people and c… [+1690 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Do police belong at New York's Pride parade?",
+"description": "Pride organisers have barred uniformed police officers from participating until 2025.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57601209",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F1F2/production/_119083916_p09mh1rz.jpg",
+"publishedAt": "2021-06-24T23:22:27.3869932Z",
+"content": "Organisers of the annual Pride parade in New York City decided to exclude officers from walking the route in a bid to create a \"safer space\" for all participants. \r\nThe BBC spoke with a gay officer w… [+87 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Child labour: The hidden costs of Covid",
+"description": "When all Uganda's schools closed due to the pandemic, nine-year-old Teddy joined her mother mining for gold.",
+"url": "http://www.bbc.co.uk/news/world-africa-57600657",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A1F/production/_119078660_f20160f8-f4a1-4e83-af89-b67a5e992999.jpg",
+"publishedAt": "2021-06-24T23:22:23.4817165Z",
+"content": "With one of the youngest populations in the world, Uganda was already struggling with high rates of child labour. \r\nBut with the world now facing a wave of economic hardship, NGOs say in a single yea… [+337 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Biden backs bumper economic stimulus bill - with big caveat",
+"description": "The president says he will only sign it if Democrats can pass a separate, far bigger budget bill.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57604121",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E14/production/_119082418_tv068211936.jpg",
+"publishedAt": "2021-06-24T22:52:21.272222Z",
+"content": "image copyrightGetty Images\r\nimage captionMr Biden spoke to reporters after negotiations at the White House on Thursday\r\nThe US Senate has struck an agreement for a $1.2tn (£860bn) economic package i… [+4268 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Charles financially supported Sussexes until summer of 2020 - Clarence House",
+"description": "Prince Charles supported the couple after they stepped down as senior royals, Clarence House says.",
+"url": "http://www.bbc.co.uk/news/uk-57589216",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FF8/production/_119065863_mediaitem119065862.jpg",
+"publishedAt": "2021-06-24T10:07:20.7820957Z",
+"content": "By Alex TherrienBBC News\r\nimage captionThe Duke and Duchess of Sussex being interviewed by Oprah Winfrey earlier this year\r\nThe Prince of Wales continued to support the Duke and Duchess of Sussex wit… [+4405 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Canada: Hundreds of unmarked graves found at indigenous school",
+"description": "It is the most significant such discovery to date, a First Nation group in Saskatchewan says.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-57592243",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30DB/production/_119070521_63604d19-d288-4d07-b16b-639f7886e109.jpg",
+"publishedAt": "2021-06-24T08:37:23.9994294Z",
+"content": "image captionIn recent weeks, people have placed children's shoes at memorials to mourn those who died at Canada's indigenous schools\r\nAn indigenous group in Canada says it has found hundreds of unma… [+1672 chars]"
+}
+]
+}
